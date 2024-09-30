@@ -1,5 +1,5 @@
 # binance_trading_pairs
-Binance spot trading USDT pairs list
+Binance spot trading USDT pairs list in Tradingview list import format
 
 To obtain up to date spot USDT trading pairs as a tradingview list: 
 1. Use any rest client (for exmaple restninja.io or Thunder Client plugin for Visual Studio Code) and execute GET query to https://api.binance.com/api/v3/exchangeInfo without any params.
