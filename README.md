@@ -7,3 +7,4 @@ To obtain up to date spot USDT trading pairs from Binance as a tradingview list:
 3. Import file in Tradingview
 
 If you want to parametrize the script - i.e. generate different pairs list feel free to contribute or ask.
+In repository you will also find already generated tradingview list which was up to date on the day of generation.
